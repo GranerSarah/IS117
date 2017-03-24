@@ -1,0 +1,28 @@
+www.w3.org: This is the website of the World Wide Web Consortium. It is an
+international community that develops universal standards for web development.
+The website contains many pages about internet standards, how to use different
+tools effectively on the web, and connects web professionals.
+
+www.whatw.org: This is the website of the The Web Hypertext Application
+Technology Working Group. It is a community of web professionals working on
+developing new HTML and API. The website allows you to validate a web page and
+introduces the reader to the community and html standards.
+
+www.html5test.com: This website tests a web browser against HTML5 standards and rates how well it is able to properly parse and utilize HTML5 elements. It is useful for building a webpage and understanding which elements can be used for certain browsers.
+
+ www.webaim.org: This is the website of Web Accessibility In Mind, a community
+ dedicated to standardizing the web in terms of accessibility. This allows
+ everyone, including those who are disabled, to properly utilize the web. The
+ website offers accessibility training, evaluation of web sites for
+ certification, and technical assistance.
+
+Search Engine Optimization (SEO): the process of maximizing the number of
+visitors to a particular website by ensuring that the site appears high on the
+list of results returned by a search engine. This process not only makes your
+web page more visible and more likely to be visited, but assists search engines
+in finding appropriate websites as answers for different queries.
+
+Responsive Web Design: designing a web site so it can be easily viewed on
+different devices. This allows a person viewing your site on a desktop and
+someone else viewing it on a smartphone are viewing the same website, if
+slightly differently formatted so they can both see the important content.
