@@ -1,0 +1,166 @@
+/*css reset*/
+*{
+	margin:0;
+	padding:0;
+}
+
+/* the styles for the elements */
+
+html{
+	background-color:white;
+	}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+	width: 800px;
+	margin:0px auto;
+	border:3px solid #931420;
+	background-color:#fffded;
+}
+
+section{
+	width:525px;
+	float:right;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+aside{
+	width:215px;
+	padding-bottom:20px;
+	padding-left:20px;
+}
+
+article{
+	padding-bottom:0.5em;
+	padding-top:0.5em;
+	border-top:2px solid #800000;
+	border-bottom:2px solid #800000;
+}
+
+/* the styles for the header */
+header{
+	border-bottom:3px solid #931420;
+	padding-top:1.5em;
+	padding-bottom:2em;
+	background-color:#f6bb73;
+	background: -webkit-linear-gradient(30deg, #f6bb73 0%,#f6bb73 30%,white 50%,#f6bb73 80%,#f6bb73 100%);
+    background: -o-linear-gradient(30deg, #f6bb73 0%,#f6bb73 30%,white 50%,#f6bb73 80%,#f6bb73 100%);
+    background: -moz-linear-gradient(30deg, #f6bb73 0%,#f6bb73 30%,white 50%,#f6bb73 80%,#f6bb73 100%);
+    background: linear-gradient(30deg, #f6bb73 0%,#f6bb73 30%,white 50%,#f6bb73 80%,#f6bb73 100%);
+}
+header img {
+	float: left;
+	padding-left:10px;
+	margin-top:0px;
+}
+
+header h2{
+	font-size:170%;
+	color:#800000;
+	padding-left:5em;
+	padding-right:30px;
+}
+
+header h3{
+	font-size:130%;
+	font-style:italic;
+	padding-left:6.6em;
+	padding-right:30px;
+}
+
+/* the styles for the section */
+main {
+	clear: left;
+}
+
+section h2{
+	font-size:130%;
+	color:#800000;
+	padding-top:0.5em;
+	padding-bottom:0.25em;
+}
+
+section h3{
+	font-size:105%;
+	padding-bottom:0.25em;
+}
+
+section p{
+	padding-bottom:0.5em;
+}
+
+section blockquote{
+	padding-left:2em;
+	padding-right:2em;
+	font-style:italic;
+}
+
+section ul{
+	padding-bottom:0.25em;
+	padding-left:1.25em;
+}
+
+section li{
+	padding-bottom:0.35em;
+}
+
+aside h2{
+	font-size:130%;
+	color:#800000;
+	padding-top:0.5em;
+	padding-bottom:0.25em;
+}
+
+aside h3{
+	font-size:105%;
+	padding-bottom:0.25em;
+}
+
+aside link:focus{
+	font-style:italic;
+}
+aside link:hover{
+	font-style:italic;
+}
+
+aside img{
+	padding-bottom:1em;
+}
+
+aside p{
+	padding-bottom:0.5em;
+}
+
+article h1{
+	font-size:150%;
+	padding-top:0.5em;
+	padding-bottom:0.25em;
+	margin:0px;
+}
+
+article h2{
+	padding-top:0px;
+}
+article h3{
+	font-size:1-5%;
+	padding-bottom:0.25em;
+}
+article img{
+	float:right;
+	border:1px solid black;
+	margin-top:10px;
+	margin-left:10px;
+}
+
+/* the styles for the footer */
+footer{
+	background-color:#931420;
+	color:white;
+}
+footer p{
+	clear:both;
+	text-align:center;
+	padding-top:1em;
+	padding-bottom:1em;
+}
