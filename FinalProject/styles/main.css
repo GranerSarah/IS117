@@ -121,10 +121,10 @@ aside h3{
 	padding-bottom:0.25em;
 }
 
-aside link:focus{
+ul a:focus{
 	font-style:italic;
 }
-aside link:hover{
+ul a:hover{
 	font-style:italic;
 }
 
