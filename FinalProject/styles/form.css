@@ -1,0 +1,21 @@
+section form{
+	border:2px solid #cf9c7d;
+	padding:1.5em;
+}
+
+section form fieldset{
+	border-style:none;
+}
+
+section form #buttons{
+	text-align:center;
+	padding-top:1em;
+}
+
+section form input{
+	padding:0.5em;
+}
+
+section form fieldset p{
+	padding-top:1em;
+}

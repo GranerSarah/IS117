@@ -1,0 +1,187 @@
+/*css reset*/
+*{
+	margin:0;
+	padding:0;
+}
+
+/* the styles for the elements */
+
+html{
+	background-color:#8cbdda;
+	}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+	width: 800px;
+	margin:0px auto;
+	background-color:white;
+}
+
+section{
+	width:525px;
+	float:right;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+aside{
+	width:215px;
+	padding-bottom:20px;
+	padding-left:20px;
+}
+
+/* the styles for the header */
+header{
+	border:3px solid white;
+	padding-top:1.5em;
+	padding-bottom:3em;
+	padding-left:1em;
+	padding-right:1em;
+	background-color:#cf9c7d;
+}
+header img {
+	float: left;
+	padding-left:10px;
+	padding-top:0px;
+	width:100px;
+	height:100px;
+}
+
+header h1{
+	font-size:175%;
+	color:#800000;
+	padding-left:5em;
+	padding-right:30px;
+}
+
+header h2{
+	font-size:150%;
+	font-style:italic;
+	padding-left:6em;
+	padding-right:30px;
+}
+
+/* the styles for the section */
+main {
+	clear: both;
+	background-color:white;
+	padding:5px;
+}
+
+section img{
+	width:150px;
+	height:150px;
+	float:right;
+	margin-left:1em;
+	margin-bottom:1em;
+	border:1px solid black;
+}
+
+section h2{
+	font-size:130%;
+	color:#800000;
+	padding-top:0.5em;
+	padding-bottom:0.25em;
+}
+
+section h3{
+	font-size:105%;
+	padding-bottom:0.25em;
+}
+
+section p{
+	padding-bottom:0.5em;
+}
+
+section blockquote{
+	padding-left:2em;
+	padding-right:2em;
+	font-style:italic;
+}
+
+section ul{
+	padding-bottom:0.25em;
+	padding-left:1.25em;
+}
+
+section li{
+	padding-bottom:0.35em;
+}
+
+aside h2{
+	font-size:130%;
+	color:#800000;
+	padding-top:0.5em;
+	padding-bottom:0.25em;
+}
+
+aside h3{
+	margin-top:1.5em;
+	font-size:105%;
+	padding-bottom:0.25em;
+}
+
+aside link:focus{
+	font-style:italic;
+}
+aside link:hover{
+	font-style:italic;
+}
+
+aside img{
+	padding:0.5em;
+	width:70px;
+	height:70px;
+	float:left;
+}
+
+aside p{
+	padding-bottom:0.5em;
+	font-size:0.75em;
+}
+
+article img{
+	margin:5px;
+	width:100px;
+	height:100px;
+}
+
+#nav{
+	padding:0px;
+	margin:0;
+	list-style-type:none;
+	position:relative;
+}
+
+#nav li{
+	float:left;
+	width:33.33%;
+	display:block;
+	text-align:center;
+	padding-bottom:1em;
+	padding-top:1em;
+	background-color:#8cbdda;
+	font-weight:bold;
+}
+
+#nav a{
+	color:white;
+	text-decoration:none;
+}
+
+#nav li a #current{
+	color:black;
+}
+
+/* the styles for the footer */
+footer{
+	clear:both;
+	background-color:#cf9c7d;
+	color:white;
+	border:3px solid white;
+}
+footer p{
+	text-align:center;
+	padding-top:1em;
+	padding-bottom:1em;
+}
